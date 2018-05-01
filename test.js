@@ -1,7 +1,6 @@
 // this is a test file
 
-//here is a line added to the master branch code
+// i want to add some code here
 
-//and yet another line
-
-// add one more
+var hello = "Hello World!";
+console.log(hello);
